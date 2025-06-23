@@ -1,14 +1,50 @@
-- id: ch1_dia_001
-  speaker: "노인"
-  original: "Hello, traveler. What brings you here?"
-  translated: "안녕하세요, 여행자님. 무슨 일로 오셨나요?"
+- id: prologue_001
+  speaker: "시스템 메시지"
+  original: |
+    Subject #15K
+    Environmental Station Alpha
+    Status: unknown
+  translated: |
+    대상 #15K
+    환경 스테이션 알파
+    상태: 불명
 
-- id: ch1_dia_002
-  speaker: "주인공"
-  original: "I'm looking for the legendary sword."
-  translated: "전설의 검을 찾고 있습니다."
+- id: prologue_002
+  speaker: "나레이션"
+  original: "The station was used to preserve unique species and natural environments."
+  translated: "해당 스테이션은 특이 종과 자연 환경을 보존하기 위해 사용되었다."
 
-- id: ch1_dia_003
-  speaker: "노인"
-  original: "The legendary sword... It is said to be hidden deep within the dark forest. But be warned, it is protected by a powerful curse."
-  translated: "전설의 검이라... 어두운 숲 깊은 곳에 숨겨져 있다고 전해지지. 하지만 조심하게, 강력한 저주가 그 검을 지키고 있다네."
+- id: prologue_003
+  speaker: "나레이션"
+  original: "It has abandoned several decades ago."
+  translated: "수십 년 전에 폐쇄되었다."
+
+- id: prologue_004
+  speaker: "나레이션"
+  original: "It is still unclear exactly what caused the station's demise."
+  translated: "스테이션 몰락의 정확한 원인은 아직까지 불분명하다."
+
+- id: prologue_005
+  speaker: "나레이션"
+  original: "There were no survivors."
+  translated: "생존자는 없었다."
+
+- id: prologue_006
+  speaker: "통신"
+  original: '"However, we have been receiving signals from the station as of late."'
+  translated: '"하지만 최근, 해당 스테이션으로부터 신호가 수신되고 있다."'
+
+- id: prologue_007
+  speaker: "통신"
+  original: '"Investigating the station will be dangerous but necessary."'
+  translated: '"스테이션 조사는 위험하겠지만, 반드시 필요하다."'
+
+- id: prologue_008
+  speaker: "통신"
+  original: '"To avoid casualties, we''ve sent our most durable explorer robot on the mission."'
+  translated: '"인명 피해를 막기 위해, 가장 내구성이 뛰어난 탐사 로봇을 임무에 투입했다."'
+
+- id: prologue_009
+  speaker: "통신"
+  original: '"You."'
+  translated: '"바로 당신이다."'
