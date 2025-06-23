@@ -1,0 +1,14 @@
+- id: ch1_dia_001
+  speaker: "노인"
+  original: "Hello, traveler. What brings you here?"
+  translated: "안녕하세요, 여행자님. 무슨 일로 오셨나요?"
+
+- id: ch1_dia_002
+  speaker: "주인공"
+  original: "I'm looking for the legendary sword."
+  translated: "전설의 검을 찾고 있습니다."
+
+- id: ch1_dia_003
+  speaker: "노인"
+  original: "The legendary sword... It is said to be hidden deep within the dark forest. But be warned, it is protected by a powerful curse."
+  translated: "전설의 검이라... 어두운 숲 깊은 곳에 숨겨져 있다고 전해지지. 하지만 조심하게, 강력한 저주가 그 검을 지키고 있다네."
